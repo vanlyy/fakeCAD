@@ -1,0 +1,2 @@
+# fakeCAD
+simplization of CAD
